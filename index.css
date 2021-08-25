@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: black;
+}
+
+button:hover {
+	background-color:gray;
+}
+
+button{
+	display: block;
+	margin: 10px 35px;
+	background-color: lightgreen;
+	font-size:18px;
+	border-radius: 8px;
+}
+
+p{
+	font-size: 18px;
+	margin-top: 20px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+}
