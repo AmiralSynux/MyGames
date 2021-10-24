@@ -1,0 +1,597 @@
+[
+	{
+		"id": 1,
+		"title": "First Activity",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 2,
+		"title": "Activity 2",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 3,
+		"title": "Activity 3",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 4,
+		"title": "Activity 4",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 5,
+		"title": "Activity 5",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 6,
+		"title": "Activity 6",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 7,
+		"title": "Activity 7",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 8,
+		"title": "Activity 8",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 9,
+		"title": "Activity 9",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 10,
+		"title": "Activity 10",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 11,
+		"title": "Activity 11",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 12,
+		"title": "Activity 12",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 13,
+		"title": "Activity 13",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 14,
+		"title": "Activity 14",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 15,
+		"title": "Activity 15",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 16,
+		"title": "Activity 16",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 17,
+		"title": "Activity 17",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 18,
+		"title": "Activity 18",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 19,
+		"title": "Activity 19",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 20,
+		"title": "Activity 20",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 21,
+		"title": "Activity 21",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+	{
+		"id": 22,
+		"title": "Activity 22",
+		"observations": "No observations.",
+		"users": [
+			{
+				"id":1,
+				"username":"ion",
+				"password":"ion",
+				"manager": false
+			}
+			{
+				"id":2,
+				"username":"pop",
+				"password":"pop",
+				"manager": false
+			}
+		]
+		"manager":{
+			"id":1,
+			"username":"admin",
+			"password":"admin",
+			"manager": true
+		}
+		"checked":true
+		"date":"10/10/2000"
+	}
+
+]
