@@ -16,14 +16,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -43,14 +43,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -70,14 +70,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -97,14 +97,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -124,14 +124,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -151,14 +151,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -178,14 +178,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -205,14 +205,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -232,14 +232,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -259,14 +259,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -286,14 +286,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -313,14 +313,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -340,14 +340,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -367,14 +367,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -394,14 +394,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -421,14 +421,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -448,14 +448,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -475,14 +475,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -502,14 +502,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -529,14 +529,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -556,14 +556,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	},
 	{
@@ -583,14 +583,14 @@
 				"password":"pop",
 				"manager": false
 			}
-		]
+		],
 		"manager":{
 			"id":1,
 			"username":"admin",
 			"password":"admin",
 			"manager": true
-		}
-		"checked":true
+		},
+		"checked":true,
 		"date":"10/10/2000"
 	}
 
